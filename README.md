@@ -3,4 +3,4 @@ Repositório com todos os itens necessários para programar um ESP32 para se con
 
 O código e outras informações foram baseadas usando como referência o GitHub da Equeipe de Robótica Project Neon. Github: https://github.com/project-neon/combat/tree/master/src/cirrose
 
-Mais detalhes de como usar esse código e como evitar alguns problemas, segue o link do vídeo no YouTube: 
+Mais detalhes de como usar esse código e como evitar alguns problemas, segue o link do vídeo no YouTube: https://youtu.be/hXP_kQ_EbkA
